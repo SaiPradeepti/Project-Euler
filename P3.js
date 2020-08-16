@@ -22,7 +22,6 @@ console.log(largestPrimeFactor(5));
 console.log(largestPrimeFactor(7));
 console.log(largestPrimeFactor(8));
 console.log(largestPrimeFactor(13195));
-console.log(largestPrimeFactor(600851475143));
 
 // output
 // 2
@@ -31,5 +30,3 @@ console.log(largestPrimeFactor(600851475143));
 // 7
 // 2
 // 29
-// Potential infinite loop detected on line 3. Tests may fail if this is not changed.
-// 71
